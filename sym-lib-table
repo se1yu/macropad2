@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "MOUDLE-SEEEDUINO-XIAO")(type "KiCad")(uri "C:/Users/kayos/Downloads/MOUDLE-SEEEDUINO-XIAO.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeeduino-xiao-rp2040-KiCAD-Library (5)")(type "EasyEDA (JLCEDA) Pro")(uri "C:/Users/kayos/Downloads/Seeeduino-xiao-rp2040-KiCAD-Library (5).zip")(options "")(descr ""))
+  (lib (name "Seeed-XIAO-Libraries")(type "EasyEDA (JLCEDA) Pro")(uri "C:/Users/kayos/Downloads/Seeed-XIAO-Libraries.zip")(options "")(descr ""))
 )
